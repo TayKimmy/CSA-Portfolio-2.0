@@ -5,21 +5,21 @@ introduction_tools: &introduction_tools |
     | Tool Setup      | 
     +-----------------+
        |
-       | VS Code, Anaconda, Jupyter, Java Kernel
+       | VS Code,  Markdown, Jupyter Notebook (.ipynb), JavaScript (.md, .html)
        v
     +-----------------+
     | VS Code, Develop|
     | Code Editor     | 
     +-----------------+
        |
-       | Code, build, test, debug
+       | Write code, make, run localhost, test, debug
        v
     +-----------------+
     | VS Code, Git    |
     | Version Control |       | 
     +-----------------+
        |
-       | Commit local versions, track change
+       | Commit local versions, comment, track changes
        v
     +-----------------+
     | VS Code, Project|
@@ -107,21 +107,21 @@ data_structures: &data_structures |
     | 5%-7.5%          |
     +------------------+
             |            
-    College Articulated Requirements
+    College Articulated Requirements, B or better
     +------------------+
     | Java Fundamental |
     | HashMap          | --> Key-value data structure
-    | B or better      |
+    |                  |
     +------------------+
     +------------------+
     | Algorithmic      |
     | Queue,Stack,...  | --> Collections Framework
-    | B or better      |
+    |                  |
     +------------------+
     +--------------------+
     | Abstract Data Type |
     | Graph              | --> Nodes, Vertices, Edges
-    | B or better        |
+    |                    |
     +--------------------+
 
   Required FRQ Types by College Board
@@ -201,15 +201,15 @@ Sprint3:
   start: 8
   end: 12
 Sprint4:
-  title: College Board Teaching and Study 
-  description: This period students will perform formal teaching and grading on a College Board or College Articulated topic.  There will be opportunities for lessons on fundamentals, extended learning on data structures, and/or FRQs.   Student teams will have Jupyter notebooks, give tech talks, and and provide Hacks for homework.  Teams need to make sure they review College Board materials and think about ways to help classmates succeed on test.  Consider balance of lecture, hands-on practice, and lecture during teaching time.  A teaching plan is required and must be reviewed by teacher prior to beginning work.  
+  title: Warm-up Data Analysis and Sort Project,
+  description: Trimester 2 will begin with a Mini-project.  Focussing in on Sorting, Inheritance, and Polymorphic behavior.
   illustration: *data_structures
   start: 13
-  end: 16
+  end: 14
 Sprint5:
   title: Passion Projects
   description: Objective of these weeks is to explore and create ideas and concepts for a Team two trimester project.  Adding frontend and creativity while using APIs/Databases.  This should be a project of personal and team interest.  Team projects that are most liked by Teachers and Students will be continued in Trimester 3.
-  start: 17
+  start: 15
   end: 20
 Sprint6:
   title: Creative Development and N@tM
